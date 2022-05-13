@@ -15,7 +15,7 @@ ul{
 }
 body{
     font-family: 'Open Sans', sans-serif;
-    background-image: url(../mostkel/image/body.png);
+    background-image: url(image/body.png);
     background-size: cover;
 }
 .container{
