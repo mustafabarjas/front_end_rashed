@@ -167,7 +167,7 @@ body::after{
 }
 @media(max-width:768px){
     .container .box img{
-        width: 400px;
+        width: 350px;
     }
 }
 .content .box img:hover{
