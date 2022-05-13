@@ -17,6 +17,7 @@ body{
     font-family: 'Open Sans', sans-serif;
     background-image: url(image/body.png);
     background-size: cover;
+    
 }
 .container{
     padding-left: 15px;
