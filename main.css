@@ -81,7 +81,7 @@ body::after{
 }
 @media(max-width:768px){
     .header .container h2{
-        font-size: 18px;
+        font-size: 14px;
     }
 }
 .header .titel{
@@ -167,7 +167,7 @@ body::after{
 }
 @media(max-width:768px){
     .container .box img{
-        width: 325px;
+        width: 300px;
     }
 }
 .content .box img:hover{
